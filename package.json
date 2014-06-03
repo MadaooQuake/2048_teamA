@@ -1,0 +1,19 @@
+{
+	"name": "Hurra-UI",
+	"version": "0.0.1",
+	"author": "pk5166",
+	"directories" : {
+		"lib" : "./"
+	},
+	"contributors": [
+		"wd5170"
+	],
+	"engines": {"node": ">= 0.6.x"},
+	"main": "static.js",
+	"licenses": [
+		{
+			 "type": "MIT",
+			 "url": "http: //www.opensource.org/licenses/mit-license.php"
+		}
+	]
+}
